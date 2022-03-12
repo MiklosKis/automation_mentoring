@@ -1,0 +1,3 @@
+Dear Mr. Test User01, your account is Frozen. Because you are over your credit limit. Your current balance is: 0 and your limit is: 0
+Dear Mr. Test User05, your account is Frozen. Because you are over your credit limit. Your current balance is: -100 and your limit is: -50
+Dear Mr. Test User02, your account is Frozen. Because you are over your credit limit. Your current balance is: -51 and your limit is: -50
